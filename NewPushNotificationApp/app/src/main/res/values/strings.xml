@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewPushNotificationApp</string>
+    <string name="token_prefix">token prefix</string>
+</resources>
